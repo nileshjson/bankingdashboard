@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug  7 20:45:36 2021
-
-@author: DeLL
-"""
-
 
 import json
 import pandas as pd 
